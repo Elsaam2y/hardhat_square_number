@@ -1,0 +1,11 @@
+.encryptedKey.json
+node_modules
+.env
+coverage
+coverage.json
+
+#Hardhat files
+cache
+artifacts
+gas-report.txt
+gas-report.txt 
